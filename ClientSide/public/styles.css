@@ -1,0 +1,166 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #E3E3E3;
+}
+
+header {
+	background-color: #7785AC;
+	padding-bottom: 5px;
+	color: white;
+}
+
+header > hr {
+	margin-inline: 35px;
+}
+
+nav {
+	padding: 20px 40px 5px 40px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.nav-components {
+	margin-left: auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 30px;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+nav > h1 {
+	margin: 0;
+	font-size: 2em;
+	color: #C84630;
+}
+
+main {
+	width: 60%;
+	margin-inline: auto;
+	padding: 20px;
+}
+
+.landing-hero-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	column-gap: 30px;
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+	border-radius: 20px;
+}
+
+#car-part-form, #login-form, #register-form {
+	background-color: white;
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #ddd;
+}
+
+.input-container {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+input {
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #ddd;
+}
+
+/* Disable arrows in number inputs */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+button {
+	padding: 10px 15px;
+	background-color: #7785AC;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #6685AC;
+}
+
+.nav-button {
+	background-color: #e9e9e9;
+	color: black;
+}
+
+.nav-button:hover {
+	background-color: #fff;
+	color: #6685AC;
+	transform: scale(1.025);
+	transition: all 0.3s;
+}
+
+#parts-list {
+	margin-top: 20px;
+}
+
+.part > h3 {
+	margin: 0;
+}
+
+.part {
+	background-color: white;
+	padding: 20px;
+	margin: 10px 0;
+	border: 1px solid #ddd;
+}
+
+.error {
+	display: none;
+	margin-bottom: 10px;
+	font-size: 90%;
+	color: white;
+	background-color: #C84630;
+	padding: 15px 0;
+	text-align: center;
+	vertical-align: center;
+}
+
+.show-error {
+	display: block;
+}
+
+@media screen and (max-width: 600px) {
+	.landing-hero-container {
+		display: block;
+	}
+
+	img {
+		display: none;
+	}
+
+	.nav-components {
+		margin-top: 20px;
+		margin-left: 0;
+	}
+}

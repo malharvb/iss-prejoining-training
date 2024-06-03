@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Car Parts</title>
+	<link rel="stylesheet" href="../styles.css">
+	<script src="../scripts/car-parts-script.js" defer></script>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<h1><a href="../index.html">Car Part Management</a></h1>
+			<span class="nav-components">
+				<span><a href="/pages/car-parts.html">Car parts</a></span>
+				<span><a href="/pages/login.html"><button class="nav-button">Login</button></a></span>
+				<span><a href="/pages/register.html"><button class="nav-button">Register</button></a></span>
+			</span>
+		</nav>
+		<hr>
+	</header>
+	<main>
+		<section>
+			<h2>Car Part Details</h2>
+			<form id="car-part-form">
+				<div class="input-container">
+					<label for="part-name">Part Name:</label>
+					<input type="text" id="part-name" name="part-name" placeholder="Windshield" required>
+				</div>
+				<div class="input-container">
+					<label for="part-number">Part Number:</label>
+					<input type="text" id="part-number" name="part-number" placeholder="WS021" required>
+				</div>
+				<div class="input-container">
+					<label for="car-id">Car ID:</label>
+					<input type="number" id="car-id" name="car-id" placeholder="1" required>
+				</div>
+				<div class="input-container">
+					<label for="manufacturer-id">Manufacturer ID:</label>
+					<input type="number" id="manufacturer-id" name="manufacturer-id" placeholder="1" required>
+				</div>
+				<div class="input-container">
+					<label for="price">Price:</label>
+					<input type="number" id="price" name="price" placeholder="2500" required>
+				</div>
+				<div class="input-container">
+					<label for="stock-quantity">Stock Quantity:</label>
+					<input type="number" id="stock-quantity" name="stock-quantity" placeholder="50" required>
+				</div>
+				<div class="error" aria-live="polite"></div>
+				<button type="submit">Add Part</button>
+			</form>
+		</section>
+		<section id="parts-list">
+			<h2>Parts List</h2>
+			<div id="parts-container">
+				<!-- Container for displaying added parts -->
+			</div>
+		</section>
+	</main>
+</body>
+
+</html>
