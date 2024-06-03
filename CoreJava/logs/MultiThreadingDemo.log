@@ -1,0 +1,21 @@
+10:45:23.980 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item1 by Producer1
+10:45:23.989 [Consumer2] INFO  javapractice.MultiThreadingDemo - Consumed: Item1 by Consumer2
+10:45:23.990 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item2 by Producer1
+10:45:23.990 [Consumer1] INFO  javapractice.MultiThreadingDemo - Consumed: Item2 by Consumer1
+10:45:23.991 [Producer2] INFO  javapractice.MultiThreadingDemo - Produced: Item3 by Producer2
+10:45:23.992 [Consumer2] INFO  javapractice.MultiThreadingDemo - Consumed: Item3 by Consumer2
+10:45:23.992 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item4 by Producer1
+10:45:23.992 [Consumer1] INFO  javapractice.MultiThreadingDemo - Consumed: Item4 by Consumer1
+10:45:23.992 [Producer2] INFO  javapractice.MultiThreadingDemo - Produced: Item5 by Producer2
+10:45:23.994 [Consumer2] INFO  javapractice.MultiThreadingDemo - Consumed: Item5 by Consumer2
+10:45:23.994 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item6 by Producer1
+10:45:23.994 [Consumer1] INFO  javapractice.MultiThreadingDemo - Consumed: Item6 by Consumer1
+10:45:23.994 [Producer2] INFO  javapractice.MultiThreadingDemo - Produced: Item7 by Producer2
+10:45:23.995 [Consumer2] INFO  javapractice.MultiThreadingDemo - Consumed: Item7 by Consumer2
+10:45:23.995 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item8 by Producer1
+10:45:23.995 [Consumer1] INFO  javapractice.MultiThreadingDemo - Consumed: Item8 by Consumer1
+10:45:23.996 [Producer2] INFO  javapractice.MultiThreadingDemo - Produced: Item9 by Producer2
+10:45:23.996 [Consumer2] INFO  javapractice.MultiThreadingDemo - Consumed: Item9 by Consumer2
+10:45:23.996 [Producer1] INFO  javapractice.MultiThreadingDemo - Produced: Item10 by Producer1
+10:45:23.996 [Consumer1] INFO  javapractice.MultiThreadingDemo - Consumed: Item10 by Consumer1
+10:45:23.998 [main] INFO  javapractice.MultiThreadingDemo - Producer-Consumer demo finished

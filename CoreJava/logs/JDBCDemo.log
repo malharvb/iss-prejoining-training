@@ -1,0 +1,9 @@
+14:50:38.826 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Connected to the MySQL database
+14:50:38.913 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Amit	Sharma	amit.sharma@gmail.com
+14:50:38.913 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Priya	Singh	priya.singh@gmail.com
+14:50:38.914 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Rajesh	Kumar	rajesh.kumar@gmail.com
+14:50:38.914 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Sunita	Patel	sunita.patel@gmail.com
+14:50:38.914 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Vikram	Reddy	vikram.reddy@gmail.com
+14:50:38.966 [main] INFO  javapractice.jdbcdemo.JDBCDemo - Row affected 1
+14:50:39.011 [main] INFO  javapractice.jdbcdemo.JDBCDemo - The inserted candidate id is 21
+14:50:39.062 [main] INFO  javapractice.jdbcdemo.JDBCDemo - [Java, SQL]

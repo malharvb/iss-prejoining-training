@@ -1,0 +1,9 @@
+19:52:51.014 [main] INFO  javapractice.XMLDemo - Originally created XML:
+19:52:51.021 [main] INFO  javapractice.XMLDemo - Root element: carParts
+19:52:51.022 [main] INFO  javapractice.XMLDemo - Part Name: Brake Pad
+19:52:51.023 [main] INFO  javapractice.XMLDemo - Part Number: BP1234
+19:52:51.023 [main] INFO  javapractice.XMLDemo - Manufacturer: XYZ Industries
+19:52:51.024 [main] INFO  javapractice.XMLDemo - Modified XML:
+19:52:51.024 [main] INFO  javapractice.XMLDemo - Part Name: Brake Pad
+19:52:51.024 [main] INFO  javapractice.XMLDemo - Part Number: BP1234
+19:52:51.025 [main] INFO  javapractice.XMLDemo - Manufacturer: Malhar Industries

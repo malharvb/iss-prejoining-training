@@ -1,0 +1,3 @@
+18:25:24.752 [main] INFO  javapractice.BasicClassDemo - Car part number: A100
+18:25:24.760 [main] INFO  javapractice.BasicClassDemo - Car part manufacturer: MRF
+18:25:24.763 [main] INFO  javapractice.BasicClassDemo - Car part price: 2000.0

@@ -1,0 +1,10 @@
+{
+  "partID": "12345",
+  "partName": "Brake Pad",
+  "price": 1550,
+  "compatibleModels": [
+    "Model 2018",
+    "Model 2020",
+    "Model 2024"
+  ]
+}

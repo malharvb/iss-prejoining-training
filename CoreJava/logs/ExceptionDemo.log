@@ -1,0 +1,8 @@
+19:29:08.910 [main] INFO  javapractice.ExceptionDemo - Enter employee id: 
+19:29:10.835 [main] INFO  javapractice.ExceptionDemo - 20
+19:29:15.305 [main] INFO  javapractice.ExceptionDemo - Enter employee id: 
+19:29:17.084 [main] INFO  javapractice.ExceptionDemo - 60
+19:29:17.085 [main] INFO  javapractice.ExceptionDemo - Employee ID is incorrect. Valid range of employee ID is from 1 to 50
+19:29:20.973 [main] INFO  javapractice.ExceptionDemo - Enter employee id: 
+19:29:22.767 [main] INFO  javapractice.ExceptionDemo - -1
+19:29:22.767 [main] INFO  javapractice.ExceptionDemo - Employee ID is incorrect. Valid range of employee ID is from 1 to 50

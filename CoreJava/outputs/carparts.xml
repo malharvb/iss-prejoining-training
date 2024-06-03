@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<carParts>
+    
+  <part>
+        
+    <name>Brake Pad</name>
+        
+    <number>BP1234</number>
+        
+    <manufacturer>Malhar Industries</manufacturer>
+      
+  </part>
+  
+</carParts>

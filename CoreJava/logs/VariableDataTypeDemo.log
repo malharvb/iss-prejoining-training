@@ -1,0 +1,7 @@
+11:55:10.877 [main] INFO  javapractice.VariableDataTypeDemo - The two strings are equal in value
+11:55:10.884 [main] INFO  javapractice.VariableDataTypeDemo - The character at index 6 is M
+12:24:59.514 [main] INFO  javapractice.VariableDataTypeDemo - The two strings Hello Malhar and Hello Malhar are equal in value
+12:24:59.521 [main] INFO  javapractice.VariableDataTypeDemo - The character at index 6 is M
+12:24:59.522 [main] INFO  javapractice.VariableDataTypeDemo - The substrings in Hello Malhar by splitting at blank spaces:
+12:24:59.522 [main] INFO  javapractice.VariableDataTypeDemo - Hello
+12:24:59.523 [main] INFO  javapractice.VariableDataTypeDemo - Malhar

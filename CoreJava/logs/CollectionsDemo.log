@@ -1,0 +1,34 @@
+16:34:17.024 [main] INFO  javapractice.CollectionsDemo - List of numbers: [1, 2, 3, 4, 5, 6, 7]
+16:34:17.031 [main] INFO  javapractice.CollectionsDemo - Sum of numbers: 28
+16:34:17.034 [main] INFO  javapractice.CollectionsDemo - Original List:
+16:34:17.047 [main] INFO  javapractice.CollectionsDemo - Car: company='Maruti Suzuki', model='Swift', year=2018
+16:34:17.047 [main] INFO  javapractice.CollectionsDemo - Car: company='Hyundai', model='i20', year=2020
+16:34:17.047 [main] INFO  javapractice.CollectionsDemo - Car: company='Tata', model='Nexon', year=2019
+16:34:17.048 [main] INFO  javapractice.CollectionsDemo - Car: company='Mahindra', model='XUV500', year=2021
+16:34:17.048 [main] INFO  javapractice.CollectionsDemo - Car: company='Honda', model='City', year=2017
+16:34:17.048 [main] INFO  javapractice.CollectionsDemo - List Sorted by Year:
+16:34:17.049 [main] INFO  javapractice.CollectionsDemo - Car: company='Honda', model='City', year=2017
+16:34:17.049 [main] INFO  javapractice.CollectionsDemo - Car: company='Maruti Suzuki', model='Swift', year=2018
+16:34:17.049 [main] INFO  javapractice.CollectionsDemo - Car: company='Tata', model='Nexon', year=2019
+16:34:17.049 [main] INFO  javapractice.CollectionsDemo - Car: company='Hyundai', model='i20', year=2020
+16:34:17.049 [main] INFO  javapractice.CollectionsDemo - Car: company='Mahindra', model='XUV500', year=2021
+16:34:17.051 [main] INFO  javapractice.CollectionsDemo - List Sorted by Make:
+16:34:17.051 [main] INFO  javapractice.CollectionsDemo - Car: company='Honda', model='City', year=2017
+16:34:17.052 [main] INFO  javapractice.CollectionsDemo - Car: company='Hyundai', model='i20', year=2020
+16:34:17.052 [main] INFO  javapractice.CollectionsDemo - Car: company='Mahindra', model='XUV500', year=2021
+16:34:17.052 [main] INFO  javapractice.CollectionsDemo - Car: company='Maruti Suzuki', model='Swift', year=2018
+16:34:17.052 [main] INFO  javapractice.CollectionsDemo - Car: company='Tata', model='Nexon', year=2019
+16:34:17.052 [main] INFO  javapractice.CollectionsDemo - HashSet with Unique Cars:
+16:34:17.053 [main] INFO  javapractice.CollectionsDemo - Car: company='Honda', model='City', year=2017
+16:34:17.053 [main] INFO  javapractice.CollectionsDemo - Car: company='Maruti Suzuki', model='Swift', year=2018
+16:34:17.053 [main] INFO  javapractice.CollectionsDemo - Car: company='Hyundai', model='i20', year=2020
+16:34:17.053 [main] INFO  javapractice.CollectionsDemo - Car: company='Tata', model='Nexon', year=2019
+16:34:17.053 [main] INFO  javapractice.CollectionsDemo - Car: company='Mahindra', model='XUV500', year=2021
+16:34:17.055 [main] INFO  javapractice.CollectionsDemo - HashMap of Cars:
+16:34:17.055 [main] INFO  javapractice.CollectionsDemo - Mahindra -> Car: company='Mahindra', model='XUV500', year=2021
+16:34:17.055 [main] INFO  javapractice.CollectionsDemo - Maruti Suzuki -> Car: company='Maruti Suzuki', model='Swift', year=2018
+16:34:17.055 [main] INFO  javapractice.CollectionsDemo - Hyundai -> Car: company='Hyundai', model='i20', year=2020
+16:34:17.055 [main] INFO  javapractice.CollectionsDemo - Tata -> Car: company='Tata', model='Nexon', year=2019
+16:34:17.056 [main] INFO  javapractice.CollectionsDemo - Honda -> Car: company='Honda', model='City', year=2017
+16:34:17.056 [main] INFO  javapractice.CollectionsDemo - Car6 equals Car1: true
+16:34:17.057 [main] INFO  javapractice.CollectionsDemo - Is Car6 in the HashSet: true

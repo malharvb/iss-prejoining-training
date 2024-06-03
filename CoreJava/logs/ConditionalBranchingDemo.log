@@ -1,0 +1,18 @@
+16:47:56.901 [main] TRACE javapractice.ConditionalBranchingDemo - Enter a number: 
+16:48:07.139 [main] TRACE javapractice.ConditionalBranchingDemo - -15
+16:48:07.140 [main] TRACE javapractice.ConditionalBranchingDemo - The number -15 is negative.
+16:48:07.142 [main] TRACE javapractice.ConditionalBranchingDemo - Enter month: 
+16:48:19.044 [main] TRACE javapractice.ConditionalBranchingDemo - mar
+16:48:19.045 [main] TRACE javapractice.ConditionalBranchingDemo - Current quarter is Quarter 1
+16:48:38.222 [main] TRACE javapractice.ConditionalBranchingDemo - Enter a number: 
+16:48:42.313 [main] TRACE javapractice.ConditionalBranchingDemo - 20
+16:48:42.314 [main] TRACE javapractice.ConditionalBranchingDemo - The number 20 is even.
+16:48:42.316 [main] TRACE javapractice.ConditionalBranchingDemo - Enter month: 
+16:48:51.212 [main] TRACE javapractice.ConditionalBranchingDemo - jun
+16:48:51.212 [main] TRACE javapractice.ConditionalBranchingDemo - Current quarter is Quarter 2
+16:48:58.335 [main] TRACE javapractice.ConditionalBranchingDemo - Enter a number: 
+16:49:01.488 [main] TRACE javapractice.ConditionalBranchingDemo - 15
+16:49:01.489 [main] TRACE javapractice.ConditionalBranchingDemo - The number 15 is odd.
+16:49:01.490 [main] TRACE javapractice.ConditionalBranchingDemo - Enter month: 
+16:49:08.281 [main] TRACE javapractice.ConditionalBranchingDemo - oct
+16:49:08.281 [main] TRACE javapractice.ConditionalBranchingDemo - Current quarter is Quarter 4

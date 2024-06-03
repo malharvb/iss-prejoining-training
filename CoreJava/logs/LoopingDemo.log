@@ -1,0 +1,13 @@
+16:36:33.416 [main] TRACE javapractice.LoopingDemo - Array of numbers: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+16:36:33.431 [main] TRACE javapractice.LoopingDemo - Calculated sum using for loop: 45
+16:36:33.432 [main] TRACE javapractice.LoopingDemo - The numbers from 1 to 10: 
+16:36:33.432 [main] TRACE javapractice.LoopingDemo - 1
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 2
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 3
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 4
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 5
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 6
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 7
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 8
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 9
+16:36:33.433 [main] TRACE javapractice.LoopingDemo - 10

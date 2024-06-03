@@ -1,0 +1,47 @@
+17:53:43.155 [main] INFO  javapractice.JSONDemo - Created JSON object:
+17:53:43.164 [main] INFO  javapractice.JSONDemo - {
+  "partID": "12345",
+  "partName": "Brake Pad",
+  "manufacturer": "XYZ Corp",
+  "price": 1250,
+  "compatibleModels": [
+    "Model 2018",
+    "Model 2020",
+    "Model 2024"
+  ]
+}
+17:53:43.192 [main] INFO  javapractice.JSONDemo - Read JSON object from file:
+17:53:43.192 [main] INFO  javapractice.JSONDemo - {
+  "partID": "12345",
+  "partName": "Brake Pad",
+  "manufacturer": "XYZ Corp",
+  "price": 1250,
+  "compatibleModels": [
+    "Model 2018",
+    "Model 2020",
+    "Model 2024"
+  ]
+}
+17:53:43.193 [main] INFO  javapractice.JSONDemo - Modified JSON object:
+17:53:43.193 [main] INFO  javapractice.JSONDemo - {
+  "partID": "12345",
+  "partName": "Brake Pad",
+  "manufacturer": "XYZ Corp",
+  "price": 1550,
+  "compatibleModels": [
+    "Model 2018",
+    "Model 2020",
+    "Model 2024"
+  ]
+}
+17:53:43.193 [main] INFO  javapractice.JSONDemo - JSON object after manufacturer property deletion:
+17:53:43.194 [main] INFO  javapractice.JSONDemo - {
+  "partID": "12345",
+  "partName": "Brake Pad",
+  "price": 1550,
+  "compatibleModels": [
+    "Model 2018",
+    "Model 2020",
+    "Model 2024"
+  ]
+}

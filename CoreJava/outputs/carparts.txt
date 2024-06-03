@@ -1,0 +1,3 @@
+BP001,Brake Pad,3500.0
+OF002,Oil Filter,12000.0
+AF003,Air Filter,3000.0
