@@ -56,7 +56,7 @@ public class LoginServlet extends HttpServlet {
 			
 			// Given password does not match with stored password
 			if (!BCrypt.checkpw(password, user.getPassword())) {
-				System.out.println(user.getPassword() + " " + password);
+				
 				session.setAttribute("loginErrorMsg", "Please make sure your password is correct");
 				
 				response.sendRedirect(request.getContextPath() + "/pages/login.jsp");
