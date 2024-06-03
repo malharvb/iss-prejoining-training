@@ -1,0 +1,15 @@
+.error {
+	display: none;
+	margin-bottom: 10px;
+	color: white;
+	background-color: #C84630;
+	padding: 10px 0;
+	text-align: center;
+	vertical-align: center;
+	border-radius: 8px;
+	white-space: pre;
+}
+
+.show-error {
+	display: block;
+}
