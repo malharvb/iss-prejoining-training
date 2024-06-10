@@ -1,5 +1,5 @@
 // Function to validate user data from login and register form
-function validateSigninForm(event, form) {
+function validateSigninForm(event) {
 
     const email = document.querySelector('#email').value;
     const password = document.querySelector('#password').value;
@@ -22,9 +22,7 @@ function validateSigninForm(event, form) {
 
     // If in login form don't perform register checks
     if (event.target.id === 'login-form') {
-		form.method = 'post';
-		form.submit();
-        return false;
+        return true;
     }
  
     // Pasword validation
